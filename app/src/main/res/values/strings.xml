@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">LocalSlang</string>
-    Black, ExpandChildBackground and ExpandGroupBackground
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <color name="Black">#000000</color>
-    <color name="ExpandChildBackground">#FFAFABAB</color>
-    <color name="ExpandGroupBackground">#FF7C7C7C</color>
+    <color name="ExpandChildBackground">#FFFFFF</color>
+    <color name="ExpandGroupBackground">#FFFFFF</color>
 </resources>
